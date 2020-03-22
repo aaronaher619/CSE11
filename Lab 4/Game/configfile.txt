@@ -1,0 +1,11 @@
+dimension 20 20
+robocar 7 7 east
+robocar 2 3 north
+robocar 10 12 random
+obstacle 6 3
+obstacle 6 4
+obstacle 6 2
+obstacle 7 12
+obstacle 18 16
+player 10 10
+rider 18 19
