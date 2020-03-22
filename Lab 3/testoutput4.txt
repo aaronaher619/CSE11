@@ -1,0 +1,177 @@
+What loader would you like to use (front/rear/fair/robin, default front)Total weight: 0.0
+Cars: 2
+Car #0:
+  0.0 of 1000.0kg
+  0 items in car
+Car #1:
+  0.0 of 5000.0kg
+  0 items in car
+Total weight: 0.0
+Cars: 4
+Car #0:
+  0.0 of 1000.0kg
+  0 items in car
+Car #1:
+  0.0 of 5000.0kg
+  0 items in car
+Car #2:
+  0.0 of 3000.0kg
+  0 items in car
+Car #3:
+  0.0 of 6000.0kg
+  0 items in car
+Total car weight: 0.0
+Items: 0
+Total car weight: 0.0
+Items: 0
+Total car weight: 0.0
+Items: 0
+Total car weight: 0.0
+Items: 0
+15 items successfully loaded
+Unable to load item
+1 items successfully loaded
+4 items successfully loaded
+1 items successfully loaded
+7 of 50 items successfully loaded
+12 of 25 items successfully loaded
+Unable to load item
+Total weight: 14990.0
+Cars: 4
+Car #0:
+  1000.0 of 1000.0kg
+  2 items in car
+Car #1:
+  5000.0 of 5000.0kg
+  9 items in car
+Car #2:
+  3000.0 of 3000.0kg
+  8 items in car
+Car #3:
+  5990.0 of 6000.0kg
+  21 items in car
+Total car weight: 1000.0
+Items: 2
+  Electronics: BigTV (500.000000 KG)
+  Electronics: BigTV (500.000000 KG)
+Total car weight: 5000.0
+Items: 9
+  Ford mustang: 1900.000000 (KG)
+  Ford f-150: 2000.000000 (KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+Total car weight: 3000.0
+Items: 8
+  Ford mustang: 1900.000000 (KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+Total car weight: 5990.0
+Items: 21
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Ford focus: 1500.000000 (KG)
+  Ford mustang: 1900.000000 (KG)
+  Ford mustang: 1900.000000 (KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+Unable to load item
+Unable to load item
+Unable to load item
+10 of 100 items successfully loaded
+Total weight: 15000.0
+Cars: 4
+Car #0:
+  1000.0 of 1000.0kg
+  2 items in car
+Car #1:
+  5000.0 of 5000.0kg
+  9 items in car
+Car #2:
+  3000.0 of 3000.0kg
+  8 items in car
+Car #3:
+  6000.0 of 6000.0kg
+  31 items in car
+Total car weight: 1000.0
+Items: 2
+  Electronics: BigTV (500.000000 KG)
+  Electronics: BigTV (500.000000 KG)
+Total car weight: 5000.0
+Items: 9
+  Ford mustang: 1900.000000 (KG)
+  Ford f-150: 2000.000000 (KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+Total car weight: 3000.0
+Items: 8
+  Ford mustang: 1900.000000 (KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+Total car weight: 6000.0
+Items: 31
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Ford focus: 1500.000000 (KG)
+  Ford mustang: 1900.000000 (KG)
+  Ford mustang: 1900.000000 (KG)
+  Electronics: BigTV (500.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: AppleComputer (20.000000 KG)
+  Electronics: phone (1.000000 KG)
+  Electronics: phone (1.000000 KG)
+  Electronics: phone (1.000000 KG)
+  Electronics: phone (1.000000 KG)
+  Electronics: phone (1.000000 KG)
+  Electronics: phone (1.000000 KG)
+  Electronics: phone (1.000000 KG)
+  Electronics: phone (1.000000 KG)
+  Electronics: phone (1.000000 KG)
+  Electronics: phone (1.000000 KG)
+

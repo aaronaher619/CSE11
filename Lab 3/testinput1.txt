@@ -1,0 +1,7 @@
+front
+add-cars 2 2500
+ford mustang 1
+electronics tv 30 3
+manifest
+manifest 0
+manifest 1

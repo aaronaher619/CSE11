@@ -1,0 +1,161 @@
+What loader would you like to use (front/rear/fair/robin, default front)Total weight: 0.0
+Cars: 5
+Car #0:
+  0.0 of 10.0kg
+  0 items in car
+Car #1:
+  0.0 of 8.0kg
+  0 items in car
+Car #2:
+  0.0 of 6.0kg
+  0 items in car
+Car #3:
+  0.0 of 4.0kg
+  0 items in car
+Car #4:
+  0.0 of 3.0kg
+  0 items in car
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+1 items successfully loaded
+Unable to load item
+Unable to load item
+Unable to load item
+Unable to load item
+Unable to load item
+Unable to load item
+Unable to load item
+Unable to load item
+Total weight: 31.0
+Cars: 5
+Car #0:
+  10.0 of 10.0kg
+  4 items in car
+Car #1:
+  8.0 of 8.0kg
+  6 items in car
+Car #2:
+  6.0 of 6.0kg
+  2 items in car
+Car #3:
+  4.0 of 4.0kg
+  2 items in car
+Car #4:
+  3.0 of 3.0kg
+  1 items in car
+Total car weight: 10.0
+Items: 4
+  Electronics: A (3.000000 KG)
+  Electronics: E (3.000000 KG)
+  Electronics: G1 (1.000000 KG)
+  Electronics: H (3.000000 KG)
+Total car weight: 8.0
+Items: 6
+  Electronics: A1 (1.000000 KG)
+  Electronics: C1 (1.000000 KG)
+  Electronics: D1 (1.000000 KG)
+  Electronics: E1 (1.000000 KG)
+  Electronics: F1 (1.000000 KG)
+  Electronics: G (3.000000 KG)
+Total car weight: 6.0
+Items: 2
+  Electronics: B (3.000000 KG)
+  Electronics: F (3.000000 KG)
+Total car weight: 4.0
+Items: 2
+  Electronics: B1 (1.000000 KG)
+  Electronics: D (3.000000 KG)
+Total car weight: 3.0
+Items: 1
+  Electronics: C (3.000000 KG)
+Total weight: 31.0
+Cars: 9
+Car #0:
+  10.0 of 10.0kg
+  4 items in car
+Car #1:
+  8.0 of 8.0kg
+  6 items in car
+Car #2:
+  6.0 of 6.0kg
+  2 items in car
+Car #3:
+  4.0 of 4.0kg
+  2 items in car
+Car #4:
+  3.0 of 3.0kg
+  1 items in car
+Car #5:
+  0.0 of 4000.0kg
+  0 items in car
+Car #6:
+  0.0 of 1000.0kg
+  0 items in car
+Car #7:
+  0.0 of 2500.0kg
+  0 items in car
+Car #8:
+  0.0 of 3000.0kg
+  0 items in car
+10 items successfully loaded
+1 of 3 items successfully loaded
+10 items successfully loaded
+2 items successfully loaded
+5 items successfully loaded
+2 of 5 items successfully loaded
+Unable to load item
+4 of 20 items successfully loaded
+Total car weight: 3950.0
+Items: 5
+  Electronics: Computer (100.000000 KG)
+  Electronics: Computer (100.000000 KG)
+  Electronics: Computer (100.000000 KG)
+  Ford excursion: 3500.000000 (KG)
+  Electronics: SmallTV (150.000000 KG)
+Total car weight: 925.0
+Items: 12
+  Electronics: Computer (100.000000 KG)
+  Electronics: Computer (100.000000 KG)
+  Electronics: Computer (100.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: SmallTV (150.000000 KG)
+Total car weight: 2450.0
+Items: 8
+  Electronics: Computer (100.000000 KG)
+  Electronics: Computer (100.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Ford focus: 1500.000000 (KG)
+  Electronics: SmallTV (150.000000 KG)
+Total car weight: 2900.0
+Items: 9
+  Electronics: Computer (100.000000 KG)
+  Electronics: Computer (100.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Electronics: AppleComputer (150.000000 KG)
+  Ford focus: 1500.000000 (KG)
+  Electronics: TV (300.000000 KG)
+  Electronics: TV (300.000000 KG)
+  Electronics: SmallTV (150.000000 KG)

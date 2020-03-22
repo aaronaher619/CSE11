@@ -1,0 +1,335 @@
+/**
+ * Provide a set of Array functions on an Array of doubles 
+ * @author Aaron Hernandez A12623880
+ * @version CSE11-Spring2016-PR3
+ */
+public class DoubleArray11{
+    public final int EXPANSION=10;
+    // This is internal array where you store double values
+    private double [] internal;
+    
+    // This is the number of filled (utilized slots in the array)
+    // internal.length may be > size.  
+    // only indices 0..(size-1) store "active" elements
+    private int size;
+    private int capacity;
+    // You may want to add other instance variables here.
+    private static int nArrays = 0;
+
+    /** 
+     * 0-argument constructor. 
+     * initial capacity of internal double array is set to 0
+     */
+    public DoubleArray11(){
+        internal = new double[0];
+	size = 0;
+	++nArrays;
+    }
+
+    /** 
+     * create an instance where the internal storage has a capacity to
+     * to store upto capacity doubles 
+     * @param capacity initial capacity of this instance 
+     */
+    public DoubleArray11(int capacity){
+        internal = new double[capacity];
+	size =0;
+	++nArrays;
+    }
+    /** 
+     * Create the internal array to be the same size as the argument 
+     * copy element-by-element the argument array to internal 
+     * @param dArray array of elements to copy 
+     */
+    public DoubleArray11(double [] dArray){
+	internal = new double [dArray.length];
+        for(int i=0; i<internal.length; ++i){
+	    internal[i] = dArray[i];
+	}
+	size= internal.length;
+	++nArrays;
+    }
+
+    /* Make a string representation */
+    /**
+     * Pretty Print  -- Empty String "[]"
+     *                  else "[e1, e2, ..., en]"
+     *                  only print the first size elements
+     */
+    @Override
+	public String toString(){
+        // note: String s = String.format("%6.3g",x); will produce a string
+        // that prints a formatted version of the double variable x.
+        String s = "[";
+        int i;
+        for (i = 0; i < size-1; i++)
+            s += String.format("%6.3g, ",internal[i]);
+        if (i == (size -1))
+            s += String.format("%6.3g",internal[i]);
+        s += "]";
+            
+        return s;
+    }
+
+    /* Getters and Setters */
+
+    /** get the number of elements actually stored in the internal array  
+     *  e.g. internal variable size
+     * @return number of elements in the array
+     */
+    public int getSize(){
+        return size; 
+    }
+    /** get the capacity of the  internally stored array  
+     * @return capacity of the internally-stored array 
+     */
+    public int getCapacity(){
+	capacity = internal.length;
+        return capacity;
+    }
+    /** get the Element at index  
+     * @param index of data to retrieve. Valid index is 0..(size-1) 
+     * @return element if index is valid else  return Double.NaN
+     */
+    public double getElement(int index){
+        return internal[index];
+    }
+    
+    /** Determine how many DoubleArray11 Objects have been constructed 
+     * @return the number of times any of the constructors have been called 
+     */
+    public static int getNArrays(){
+        return nArrays-1;
+    }
+
+    /** retrieve a copy of the internal stored Array
+     * @return an array has length == size. The elements in the array
+     * should be copies of the first size elements of the internal array.
+     * (this is called a deep copy)
+     */
+    public double [] getArray(){
+        double[] toReturn = new double [size];
+	for(int i=0; i<size; ++i){
+	    toReturn[i] = internal[i];
+	}
+        return toReturn;
+    }
+
+    /** set the value of an element in the stored arra
+     * @param index of element to store. Must be a valid index  [0,(size-1)]
+     * @param element the data to insert in the array
+     * @return true if element set was successful. false if the index is out
+     * of range
+     * 
+     */
+    public boolean setElement(int index, double element){
+        internal[index] = element;
+        return ((index>=0) && (index<size) && (internal[index] == element));
+    }
+
+    /** Append element at the "end" of the array. That is, at index = size 
+     * @param element the data to append to the array
+     * @return true if element insertion was successful
+     * if the internal array has no more capacity, then create a new internal
+     * array with capacity expanded by  EXPANSION slots.
+     */
+    public boolean append(double element){
+	if(internal.length==size){
+	    double[] newInternal = new double[internal.length+EXPANSION];
+	    for(int i=0; i<internal.length; ++i){
+	    newInternal[i] = internal[i];
+	    }
+	    internal = newInternal;
+	}
+
+	internal[size]=element;
+	int end = size;
+	++size;
+	return (internal[end]==element);
+    }
+
+    /** Delete an element at index.
+     * @param index of element to delete. Index in range [0..(size-1)]
+     * @return true if element deletion was successful, false otherwise
+     */
+    public boolean delete(int index){
+        double[] deletedArray = new double[internal.length-1];
+	for(int i=0; i<index; ++i){
+	    deletedArray[i] = internal[i];
+	}
+	for(int i=index; i<deletedArray.length; ++i){
+	    deletedArray[i] = internal[i+1];
+	}
+	internal = deletedArray;
+	--size;
+        return ((index>=0) && (index<size));
+    }
+
+    /** Insert an element at index in the array
+     * @param index where to insert. index in range [0,size] 
+     *              Inserting at index size  is equivalent to append
+     *              expand capacity of internal array by EXPANSION slots if
+     *              needed
+     * @param element the data to insert in the array
+     * @return true if element insertion was successful
+     */
+    public boolean insert(int index, double element)
+    {
+	if((index==size)||(internal.length==size)){
+            double[] newInternal = new double[internal.length+EXPANSION];
+            for(int i=0; i<internal.length; ++i){
+		newInternal[i] = internal[i];
+            }
+            internal = newInternal;
+     
+	    double[] insertArray = new double[internal.length];
+	    for(int i=0; i<index; ++i){
+		insertArray[i] = internal[i];
+	    }
+	    insertArray[index]=element;
+	    for(int i=index+1; i<insertArray.length; ++i){
+		insertArray[i]= internal[i-1];
+	    }
+	    internal = insertArray;
+	    ++size;
+	    return ((index>=0) && (index<=size) && (internal[index] == element));
+
+	}
+	else{
+	    double[] insertArray = new double[internal.length];
+            for(int i=0; i<index; ++i){
+                insertArray[i] = internal[i];
+            }
+            insertArray[index]=element;
+            for(int i=index+1; i<insertArray.length; ++i){
+                insertArray[i]= internal[i-1];
+            }
+            internal = insertArray;
+            ++size;
+            return ((index>=0) && (index<=size) && (internal[index] == element));
+	}
+    }
+
+
+    /** reverse the order of the first size elements in internal array 
+     *   <pre>
+     *   Example:  internal = [ 1,2,3,4,5,6,7,8,0,0 ]
+     *             with size = 8
+     *             reverse() results in 
+     *             Array = [ 8,7,6,5,4,3,2,1,0,0]
+     *   </pre>
+     */
+    public void reverse(){
+	double[] reverseArray = new double[internal.length];
+	for(int i = 0,j=size-1; i<size; ++i, --j){
+    		reverseArray[i]=internal[j];
+	    }
+	internal = reverseArray;
+	}
+     /** reverse the order of the elements in the array from start to
+     *   to end index 
+     *   <p>
+     *   start may be larger,smaller, or equal to end. The indices are
+     *   inclusive. Valid indices are [0,(size-1)]
+     *   <pre>
+     *   Example:  Array = [ 1,2,3,4,5,6,7,8 ]
+     *             reverse(3,6) results in 
+     *             Array = [ 1,2,3,7,6,5,4,8 ]
+     *   </pre>
+     *   @param start beginning index of to start the reverse
+     *   @param end    ending index to end the reverse
+     *   @return true if start and end index are valid, false otherwise
+     *
+     *
+     */
+    public boolean reverse(int start, int end){
+        double[] reverseArray = new double[internal.length];
+	if (!(start>=0) && (start<size-1) && (end>=0) && (end<size-1)){
+	    return false;
+	}
+	else if (start>=end){
+	    return true;
+	}
+	for(int i = start,j=end; i<=end; ++i, --j){
+	    reverseArray[i]=internal[j];
+	}
+    
+	internal = reverseArray;
+        return true;
+    }
+
+    /** swap two elements in the array 
+     *   @param index1 index of first element 
+     *   @param index2 index of second element
+     *   @return true if index1 and index2 are valid, false otherwise
+     *
+     */
+    public boolean swap(int index1, int index2){
+	if (!(index1>=0) && (index1<size) && (index2>=0) && (index2<size)){
+	    return false;
+	}
+	double temp1 = internal[index1];
+	double temp2 = internal[index2];
+	internal[index1]=temp2;
+	internal[index2]=temp1;
+	return true;
+    }
+
+    /** minimum value of first size elements
+     * @return the minimum value of the first size elements of the 
+     *  internal array. if no elements, return Double.NaN
+     */
+    public double min(){
+	double min;
+	if (internal.length==0){
+	    return Double.NaN;
+	}
+	else if (internal.length==1){
+	    return internal[0];
+	}
+
+	if (internal[0]<=internal[1]){
+	    min= internal[0];
+	}
+	else {min= internal[1];}
+
+	if (internal.length>2){
+	    for(int i=2; i<size; ++i){
+		if (min>=internal[i]){
+		    min=internal[i];
+		}
+	    }
+	}
+	return min;
+    }
+
+
+    /** maximum value of first size elements 
+     *  @return the max value of the first size elements of the 
+     *  internal array. if no elements, return Double.NaN
+     */
+    public double max(){
+	double max;
+        if (internal.length==0){
+            return Double.NaN;
+        }
+        else if (internal.length==1){
+            return internal[0];
+        }
+
+        if (internal[0]>=internal[1]){
+            max= internal[0];
+        }
+        else {max= internal[1];}
+
+        if (internal.length>2){
+            for(int i=2; i<internal.length; ++i){
+                if (max<=internal[i]){
+                    max=internal[i];
+                }
+            }
+        }
+	return max;
+    }
+}
+// vim: ts=4:sw=4:tw=78:et

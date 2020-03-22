@@ -1,0 +1,38 @@
+front
+add-cars 1 1000
+add-cars 2 5000
+manifest
+add-cars 1 3000
+add-cars 2 6000
+manifest
+manifest 0
+manifest 1
+manifest 2
+manifest 3
+manifest 4
+manifest 5
+electronics computer 10 3
+ford null 0
+ford null 1
+ford mustang 2
+ford f-150 1
+electronics phone 5 100
+electronics computer 10 50
+ford excursion 2
+manifest
+manifest 0
+manifest 1
+manifest 2
+manifest 3
+manifest 4
+manifest 5
+ford excursion 4
+ford focus 10
+electronics TV 100 50
+manifest
+manifest 0
+manifest 1
+manifest 2
+manifest 3
+manifest 4
+manifest 5

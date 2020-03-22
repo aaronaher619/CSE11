@@ -1,0 +1,51 @@
+robin
+add-cars 1 10
+add-cars 1 8
+add-cars 1 6
+add-cars 1 4
+add-cars 1 3
+manifest
+electronics A 3 1
+electronics A1 1 1
+electronics B 3 1
+electronics B1 1 1
+electronics C 3 1
+electronics C1 1 1
+electronics D 3 1
+electronics D1 1 1
+electronics E 3 1
+electronics E1 1 1
+electronics F 3 1
+electronics F1 1 1
+electronics G 3 1
+electronics G1 1 1
+electronics H 3 1
+electronics H1 1 1
+electronics I 3 1
+electronics I1 1 1
+electronics J 3 1
+electronics J1 1 1
+manifest
+manifest 0
+manifest 1
+manifest 2
+manifest 3
+manifest 4
+add-cars 2 4000
+add-cars 1 1000
+add-cars 2 2500
+add-cars 1 3000
+manifest
+electronics Computer 100 10
+ford excursion 3
+electronics AppleComputer 150 10
+ford focus 2
+electronics phone 5 5
+electronics TV 300 5
+ford F-150 6
+electronics SmallTV 150 20
+manifest 5
+manifest 6
+manifest 7
+manifest 8
+

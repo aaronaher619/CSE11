@@ -1,0 +1,481 @@
+What loader would you like to use (front/rear/fair/robin, default front)Total weight: 0.0
+Cars: 3
+Car #0:
+  0.0 of 1000.0kg
+  0 items in car
+Car #1:
+  0.0 of 5000.0kg
+  0 items in car
+Car #2:
+  0.0 of 5000.0kg
+  0 items in car
+Total weight: 0.0
+Cars: 6
+Car #0:
+  0.0 of 1000.0kg
+  0 items in car
+Car #1:
+  0.0 of 5000.0kg
+  0 items in car
+Car #2:
+  0.0 of 5000.0kg
+  0 items in car
+Car #3:
+  0.0 of 3000.0kg
+  0 items in car
+Car #4:
+  0.0 of 6000.0kg
+  0 items in car
+Car #5:
+  0.0 of 6000.0kg
+  0 items in car
+Total car weight: 0.0
+Items: 0
+Total car weight: 0.0
+Items: 0
+Total car weight: 0.0
+Items: 0
+Total car weight: 0.0
+Items: 0
+Total car weight: 0.0
+Items: 0
+Total car weight: 0.0
+Items: 0
+3 items successfully loaded
+Unable to load item
+1 items successfully loaded
+2 items successfully loaded
+1 items successfully loaded
+100 items successfully loaded
+50 items successfully loaded
+2 items successfully loaded
+Total weight: 15830.0
+Cars: 6
+Car #0:
+  1000.0 of 1000.0kg
+  150 items in car
+Car #1:
+  3930.0 of 5000.0kg
+  5 items in car
+Car #2:
+  3900.0 of 5000.0kg
+  2 items in car
+Car #3:
+  0.0 of 3000.0kg
+  0 items in car
+Car #4:
+  3500.0 of 6000.0kg
+  1 items in car
+Car #5:
+  3500.0 of 6000.0kg
+  1 items in car
+Total car weight: 1000.0
+Items: 150
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+Total car weight: 3930.0
+Items: 5
+  Ford null: 2000.000000 (KG)
+  Ford mustang: 1900.000000 (KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+Total car weight: 3900.0
+Items: 2
+  Ford mustang: 1900.000000 (KG)
+  Ford f-150: 2000.000000 (KG)
+Total car weight: 0.0
+Items: 0
+Total car weight: 3500.0
+Items: 1
+  Ford excursion: 3500.000000 (KG)
+Total car weight: 3500.0
+Items: 1
+  Ford excursion: 3500.000000 (KG)
+Unable to load item
+4 of 10 items successfully loaded
+41 of 50 items successfully loaded
+Total weight: 25930.0
+Cars: 6
+Car #0:
+  1000.0 of 1000.0kg
+  150 items in car
+Car #1:
+  4930.0 of 5000.0kg
+  15 items in car
+Car #2:
+  5000.0 of 5000.0kg
+  13 items in car
+Car #3:
+  3000.0 of 3000.0kg
+  2 items in car
+Car #4:
+  6000.0 of 6000.0kg
+  12 items in car
+Car #5:
+  6000.0 of 6000.0kg
+  12 items in car
+Total car weight: 1000.0
+Items: 150
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: phone (5.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+Total car weight: 4930.0
+Items: 15
+  Ford null: 2000.000000 (KG)
+  Ford mustang: 1900.000000 (KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: computer (10.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+Total car weight: 5000.0
+Items: 13
+  Ford mustang: 1900.000000 (KG)
+  Ford f-150: 2000.000000 (KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+Total car weight: 3000.0
+Items: 2
+  Ford focus: 1500.000000 (KG)
+  Ford focus: 1500.000000 (KG)
+Total car weight: 6000.0
+Items: 12
+  Ford excursion: 3500.000000 (KG)
+  Ford focus: 1500.000000 (KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+Total car weight: 6000.0
+Items: 12
+  Ford excursion: 3500.000000 (KG)
+  Ford focus: 1500.000000 (KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)
+  Electronics: TV (100.000000 KG)

@@ -1,0 +1,18 @@
+What loader would you like to use (front/rear/fair/robin, default front)1 items successfully loaded
+3 items successfully loaded
+Total weight: 1990.0
+Cars: 2
+Car #0:
+  1990.0 of 2500.0kg
+  4 items in car
+Car #1:
+  0.0 of 2500.0kg
+  0 items in car
+Total car weight: 1990.0
+Items: 4
+  Ford mustang: 1900.000000 (KG)
+  Electronics: tv (30.000000 KG)
+  Electronics: tv (30.000000 KG)
+  Electronics: tv (30.000000 KG)
+Total car weight: 0.0
+Items: 0
